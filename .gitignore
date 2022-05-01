@@ -1,0 +1,5 @@
+node_modules/
+postgres/
+kong/
+book-service/node_modules
+todos-service/node_modules
